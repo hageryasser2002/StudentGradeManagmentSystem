@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734983946 source:d:\pwd iti\iti_intake 46_pwd\c language\projects\software requirements specification (srs)\studentgradems\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
